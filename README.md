@@ -4,7 +4,7 @@ A beginner-friendly JavaScript project that implements a counter with increment,
 
 ## 🚀 Live Demo
 
-You can run it locally or deploy on [GitHub Pages](https://pages.github.com/) or [Netlify](https://www.netlify.com/).
+check the varcel link in the top right
 
 ## 🛠️ Features
 
@@ -24,7 +24,7 @@ You can run it locally or deploy on [GitHub Pages](https://pages.github.com/) or
 
 ## 📸 Screenshot
 
-!![image](https://github.com/user-attachments/assets/ef506ee9-4e80-4a51-98c8-8a688e4edb35)
+![image](https://github.com/user-attachments/assets/ef506ee9-4e80-4a51-98c8-8a688e4edb35)
 
 
 ## 🧠 Learning Outcome
