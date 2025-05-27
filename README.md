@@ -4,7 +4,7 @@ A beginner-friendly JavaScript project that implements a counter with increment,
 
 ## 🚀 Live Demo
 
-check the varcel link in the top right
+Check the vercel link in the top right
 
 ## 🛠️ Features
 
